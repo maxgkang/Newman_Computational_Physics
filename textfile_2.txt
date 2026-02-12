@@ -1,0 +1,6 @@
+City Temp Language Economy
+Seoul 10 Korean big
+Tokyo 12 Japanese big
+Chicago 2 English big
+Hanoi 22 Vietnamese medium
+Hefei 13 Chinese small
